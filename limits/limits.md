@@ -20,4 +20,6 @@ print("y_left: ",y_left)
 if round(y_right) != round(y_left):
     print("Limit does not exist at x=",x)
 ```
+As x approaches 2, the value of our function approaches 3. Also, the if the limit as x approaches 2 from the right is not
+equal to the limit as x approaches 2 from the left, then the limit does not exist at that point.
 
