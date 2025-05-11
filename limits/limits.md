@@ -30,7 +30,7 @@ Take a look at the equation below.<br>
 
 ###  $f(x)=\frac{3x^2}{x^2 - 4}$ 
 As x approaches 2 from the right, the value of y becomes larger and larger. As x approaches 2 from the left, the value of 2 
-becomes smaller and smaller.
+becomes smaller and smaller.<br>
 <img src="images/graph-1.png" alt="Assymptote graph" width=600>
 ```python
 x2=2
