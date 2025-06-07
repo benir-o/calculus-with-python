@@ -5,7 +5,6 @@ import numpy as np
 x = np.linspace(-3, 3, 400)
 
 # Compute y values for the equation y = x^2 - 4
-#y = x**2 - 4
 y= (3*(x**2))/(x**2 -4)
 # Plot
 plt.plot(x, y, label="y = (3x²)/(x² - 4)", color="blue")
